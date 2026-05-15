@@ -4,9 +4,7 @@ M.Sc. Computer Science student at the University of Basel, specializing in Distr
 
 Currently interested in:
 
-* C++ & systems programming
-* Distributed systems
-* Software engineering
+* C++
 * AI/ML applications
 * Backend development
 
