@@ -10,7 +10,7 @@ Currently interested in:
 
 I enjoy building practical systems and experimenting with performance-focused and privacy-friendly software.
 
-### Projects
+### Favorite Projects
 
 * 🧸 Privacy-friendly AI toy system (Bachelor thesis)
 * 🎯 Computer vision dart scoring iOS app
