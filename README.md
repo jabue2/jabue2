@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hey, I'm Jan 👋
 
-<!--
-**jabue2/jabue2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Computer Science student at the University of Basel, specializing in Distributed Systems.
 
-Here are some ideas to get you started:
+Currently interested in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* C++ & systems programming
+* Distributed systems
+* Software engineering
+* AI/ML applications
+* Backend development
+
+I enjoy building practical systems and experimenting with performance-focused and privacy-friendly software.
+
+### Projects
+
+* 🧸 Privacy-friendly AI toy system (Bachelor thesis)
+* 🎯 Computer vision dart scoring iOS app
+* 🎲 Multiplayer Java game with client-server architecture
+
+### Currently
+
+Right now I'm trying to move beyond university projects and build more independent projects in C++, backend systems and distributed architectures.
+
+### Tech
+
+C++, Python, Java, C, SQL, Docker, PostgreSQL
