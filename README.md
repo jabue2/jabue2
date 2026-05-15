@@ -1,4 +1,4 @@
-# Hey, I'm Jan 👋
+## Hey, I'm Jan 👋
 
 M.Sc. Computer Science student at the University of Basel, specializing in Distributed Systems.
 
@@ -24,4 +24,4 @@ Right now I'm trying to move beyond university projects and build more independe
 
 ### Tech
 
-C++, Python, Java, C, SQL, Docker, PostgreSQL
+C++, Python, Java, Docker, PostgreSQL
